@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hojun1105 
+- 👋 Hi, I’m hojun1105 
 - 👀 I’m interested in artificial intelligence, football, and world 
 - 🌱 I’m currently learning deeplearning for my future 
 - 💞️ I’m looking to collaborate on diverse companies working on AI 
