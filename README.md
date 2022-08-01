@@ -1,5 +1,5 @@
 - 👋 Hi, I’m hojun1105 
-- 👀 I’m interested in artificial intelligence, football, and world 
+- 👀 I’m interested in AI, Back-End Engineering
 - 🌱 I’m currently learning deeplearning for my future 
 - 💞️ I’m looking to collaborate on diverse companies working on AI 
 - 📫 How to reach me hojun1105@gmail.com
