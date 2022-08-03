@@ -1,4 +1,4 @@
-- 👋 Hi, I’m hojun1105 
+- 👋 Hi, I’m hojun 
 - 👀 I’m interested in AI, Back-End Engineering
 - 🌱 I’m currently learning deeplearning for my future 
 - 💞️ I’m looking to collaborate on diverse companies working on AI 
