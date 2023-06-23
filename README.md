@@ -1,7 +1,6 @@
 - 👋 Hi, I’m hojun 
 - 👀 I’m interested in AI, Back-End Engineering
-- 🌱 I’m currently learning deeplearning for my future 
-- 💞️ I’m looking to collaborate on diverse companies working on AI 
+- 💞️ I’m looking to collaborate on diverse companies working on Software Engineering, AI 
 - 📫 How to reach me hojun1105@gmail.com
 
 <!---
