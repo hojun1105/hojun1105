@@ -1,11 +1,22 @@
-- 👋 Hi, I’m hojun 
-- 👀 I’m interested in AI, Back-End Engineering
-- 💞️ I’m looking to collaborate on diverse companies working on Software Engineering, AI 
-- 📫 How to reach me hojun1105@gmail.com
+# 👋 Hi, I’m Hojun
 
-<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/></a>
-(http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun1105)](https://solved.ac/hojun1105/)
-<!---
-hojun1105/hojun1105 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in **AI, Back-End Engineering**
+- 💞️ I’m looking to collaborate on diverse companies working on **Software Engineering, AI**
+- 📫 How to reach me: **hojun1105@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=java&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=springboot&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-plastic&logo=postgresql&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=docker&logoColor=white"/>  
+
+---
+
+### 🏆 Baekjoon Online Judge
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun1105)](https://solved.ac/hojun1105)
+
+---
