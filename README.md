@@ -15,6 +15,9 @@
 
 ---
 
+<img src="https://img.shields.io/badge/-Java-344CB7?style=flat-plastic&logo=Java&logoColor=white"/>
+---
+
 ### 🏆 Baekjoon Online Judge
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun1105)](https://solved.ac/hojun1105)
