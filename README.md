@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-plastic&logo=springboot&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-plastic&logo=postgresql&logoColor=white"/>  
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-plastic&logo=kotlin&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-C%23-239120?style=flat-plastic&logo=c-sharp&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat-plastic&logo=microsoftsqlserver&logoColor=white"/>  
+<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-plastic&logo=linux&logoColor=black"/>  
 
 ---
 
