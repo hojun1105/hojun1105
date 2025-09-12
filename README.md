@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-plastic&logo=docker&logoColor=white"/>  
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hojun1105&count_private=true&show_icons=true&cache_seconds=1800)
+
 ![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1105&show_icons=true&count_private=true&cache_seconds=1800)
 
 
