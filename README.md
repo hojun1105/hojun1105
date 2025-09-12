@@ -16,8 +16,6 @@
 ---
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hojun1105&count_private=true&show_icons=true&cache_seconds=1800)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1105&theme=dark&show_icons=true)
-
 ---
 
 ### 🏆 Baekjoon Online Judge
