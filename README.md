@@ -28,6 +28,7 @@
 
 ![Hojun's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojun1105&show_icons=true&count_private=true&cache_seconds=1800)
 
+![Hojun's GitHub stats](./stats.svg)
 ---
 
 ### 🏆 Baekjoon Online Judge
