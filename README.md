@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hojun
+# Hi, I’m Hojun
 
 -  I’m interested in **AI, Back-End Engineering**
 -  I’m looking to collaborate on diverse companies working on **Software Engineering, AI**
