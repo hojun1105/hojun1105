@@ -34,3 +34,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun1105)](https://solved.ac/hojun1105)
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hojun1105&show_icons=true&count_private=true&cache_seconds=1800" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hojun1105" />
+</p>
