@@ -2,7 +2,7 @@
 
 -  I’m interested in **AI, Back-End Engineering**
 -  I’m looking to collaborate on diverse companies working on **Software Engineering, AI**
-- 📫 How to reach me: **hojun1105@gmail.com**
+- 📫 How to reach me: **hojunhojun11@gmail.com**
 
 ---
 
